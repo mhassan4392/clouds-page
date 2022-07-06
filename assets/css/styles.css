@@ -14,43 +14,43 @@
 
 .cloud-section {
   position: relative;
-  flex-basis: 33.3%;
+  flex-basis: 33.4%;
 }
 
 .image-1-1 {
   position: absolute;
   width: 400px;
   left: -20px;
-  bottom: 0;
+  bottom: -10px;
 }
 
 .image-1-2 {
   position: absolute;
   width: 400px;
   right: -20px;
-  bottom: 0;
+  bottom: -10px;
 }
 
 .image-2 {
   position: absolute;
   left: -112px;
-  top: -35px;
-  bottom: -20px;
-  height: 133%;
+  top: -22px;
+  bottom: -10px;
+  height: 124%;
 }
 
 .image-3-1 {
   position: absolute;
   width: 400px;
   left: -20px;
-  top: 0;
+  top: -10px;
 }
 
 .image-3-2 {
   position: absolute;
   width: 400px;
   right: -20px;
-  bottom: 0;
+  bottom: -10px;
 }
 
 .animate-left {
