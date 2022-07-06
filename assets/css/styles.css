@@ -26,38 +26,44 @@ html {
 
 .image-1-1 {
   position: absolute;
-  width: 400px;
-  left: -20px;
-  bottom: -10px;
+  width: 200px;
+  left: 0px;
+  bottom: 0px;
 }
 
 .image-1-2 {
   position: absolute;
-  width: 400px;
-  right: -20px;
-  bottom: -10px;
+  width: 200px;
+  right: 0px;
+  bottom: 0px;
 }
 
-.image-2 {
+.image-2-1 {
   position: absolute;
-  left: -112px;
-  top: -22px;
-  bottom: -10px;
-  height: 124%;
+  width: 100px;
+  left: 0px;
+  top: 0px;
+}
+
+.image-2-2 {
+  position: absolute;
+  width: 250px;
+  left: 10px;
+  bottom: 0px;
 }
 
 .image-3-1 {
   position: absolute;
-  width: 400px;
-  left: -20px;
-  top: -10px;
+  width: 200px;
+  left: 0px;
+  top: 0px;
 }
 
 .image-3-2 {
   position: absolute;
-  width: 400px;
-  right: -20px;
-  bottom: -10px;
+  width: 200px;
+  right: 0px;
+  bottom: 0px;
 }
 
 .animate-left {
@@ -74,7 +80,7 @@ html {
   }
 
   100% {
-    transform: translateX(-100%);
+    transform: translateX(-120%);
   }
 }
 
@@ -84,6 +90,6 @@ html {
   }
 
   100% {
-    transform: translateX(100%);
+    transform: translateX(120%);
   }
 }
