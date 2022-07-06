@@ -61,11 +61,11 @@ html {
 }
 
 .animate-left {
-  animation: animeLeft 2s forwards;
+  animation: animeLeft 5s forwards;
 }
 
 .animate-right {
-  animation: animeRight 2s forwards;
+  animation: animeRight 5s forwards;
 }
 
 @keyframes animeLeft {
