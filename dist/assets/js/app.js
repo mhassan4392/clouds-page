@@ -19,10 +19,18 @@ const addAnimeClass = (className) => {
 
 section1?.addEventListener("click", () => {
   addAnimeClass(".cloud-section-1");
+
+  setTimeout(() => {
+    window.location.href = "./section1.html";
+  }, 4000);
 });
 
 section2?.addEventListener("click", () => {
   addAnimeClass(".cloud-section-2");
+
+  setTimeout(() => {
+    window.location.href = "./section2.html";
+  }, 4000);
 });
 
 section3?.addEventListener("click", () => {
